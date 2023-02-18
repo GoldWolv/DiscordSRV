@@ -1,7 +1,7 @@
 Require linked account to play:
   Enabled: false
 
-  # これらの意味がわからない場合は触れないでください
+  # これらの意味がわからない場合は変更しないでください
   #
   # ゲームの参加イベントに対するリスナーに与えられる優先度
   # 最初から最後の順に、使用可能な値はLOWEST、LOW、NORMAL、HIGH、HIGHESTです。
@@ -11,7 +11,7 @@ Require linked account to play:
   # 一部のホワイトリストプラグインはAsyncPlayerPreLoginEvent (ベター) を使用し、一部はPlayerLoginEventを使用します
   Listener event: AsyncPlayerPreLoginEvent
   #
-  # これらの意味がわからない場合は触れないでください
+  # これらの意味がわからない場合は変更しないでください
 
   # ここで指定されたMinecraftのIGN (ID) は常に許可 (リンクされているか、サブスクライバーであるかを問わない)
   Bypass names: [Scarsz, Vankka]
