@@ -1,5 +1,5 @@
 # DiscordSRV設定
-# 助けが必要？ Discord、https://discordsrv.com/discordに参加してください
+# もしわからないことがあればhttps://discordsrv.com/discordに参加してください
 
 # ここは変更しないでください
 ConfigVersion: ${version}
@@ -68,7 +68,7 @@ Debug: []
 DebugLevel: 0
 
 # 実験
-# これらの機能は完全に最適化されていません。 自己責任
+# これらの機能は完全に最適化されていません。 自己責任でお願いします。
 
 # JDBC (MySQL/MariaDB)
 Experiment_JdbcAccountLinkBackend: "jdbc:mysql://HOST:PORT/DATABASE?autoReconnect=true&useSSL=false"
